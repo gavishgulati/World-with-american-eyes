@@ -1,0 +1,136 @@
+<html>
+<head>
+
+</head>
+<style>
+#container {
+    height: 500px; 
+    width: 800px; 
+    margin: 0 auto; 
+}
+b{
+font-size:10px;
+}
+.highcharts-tooltip>span {
+    padding: 10px;
+    white-space: normal !important;
+    width: 200px;
+	font-size:20px !important;
+}
+.loading {
+    margin-top: 10em;
+    text-align: center;
+    color: gray;
+}
+.f32 .flag {
+    vertical-align: middle !important;
+}
+
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+
+<body>
+<script src="https://code.highcharts.com/maps/highmaps.js"></script>
+<script src="https://code.highcharts.com/maps/modules/data.js"></script>
+<script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/mapdata/custom/world.js"></script>
+
+<!-- Flag sprites service provided by Martijn Lafeber, https://github.com/lafeber/world-flags-sprite/blob/master/LICENSE -->
+<link rel="stylesheet" type="text/css" href="https://cloud.github.com/downloads/lafeber/world-flags-sprite/flags32.css" />
+
+
+<div id="container"></div>
+
+<script>
+$(function () {
+
+    $.getJSON('stereotype_data-3.json', function (data) {
+
+        // Add lower case codes to the data set for inclusion in the tooltip.pointFormat
+        $.each(data, function () {
+            this.flag = this.code.replace('UK', 'GB').toLowerCase();
+        });
+
+        // Initiate the chart
+        $('#container').highcharts('Map', {
+
+            title: {
+                text: 'World with american eyes' + '<br/>Double click to zoom'
+            },
+
+            legend: {
+                title: {
+                    text: 'Stereotype Score Scale',
+                    style: {
+                        color: (Highcharts.theme && Highcharts.theme.textColor) || 'black'
+                    }
+                }
+            },
+
+            mapNavigation: {
+                enabled: true,
+                buttonOptions: {
+                    verticalAlign: 'bottom'
+                }
+            },
+
+            tooltip: {
+                backgroundColor: 'none',
+                borderWidth: 0,
+                shadow: false,
+                useHTML: true,
+                padding: 0,
+                pointFormat: '<span class="f32"><span class="flag {point.flag}"></span></span>' +
+                    ' {point.name}: <b>{point.word}</b><br/> Score: {point.value}',
+                positioner: function () {
+                    return { x: 0, y: 250 };
+                }
+            },
+
+            colorAxis: {
+                min: 1,
+                max: 5,
+                type: 'logarithmic',
+				dataClasses: [{
+                    from: 0,
+					to:1.01,
+                    color: "green"
+                }, {
+                    from: 1.01,
+					to:2.01,
+                    color: "#ccffcc"
+                }, {
+                    from: 2.01,
+					to:2.99,
+                    color: "yellow"
+                }, {
+                    from: 3,
+					to:3.99,
+                    color: "#ffcccc"
+                }, {
+                    from: 4,
+					to:4.99,
+					color: "#ff6666"
+                },
+				{
+				from : 5,
+				color: "red"
+				}
+				]
+				
+            },
+            credits: {
+                    enabled: false
+                 },
+            series : [{
+                data : data,
+                mapData: Highcharts.maps['custom/world'],
+                joinBy: ['iso-a2', 'code'],
+                name: 'Stereotype',
+              }]
+        });
+    });
+});
+</script>
+</body>
+</html>

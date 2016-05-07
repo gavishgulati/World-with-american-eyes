@@ -1,0 +1,728 @@
+[
+	{
+		"code": "AF",
+		"value": 4,
+		"name": "Afghanistan",
+		"word": "poor,important,hard to conquer, dangerous, corrupt, backward, violent, important geopolitically, underdeveloped, strategically important"
+	},
+	{
+		"code": "AR",
+		"value": 3,
+		"name": "Argentina",
+		"word": "white, poor, corrupt, rich, good at soccer, racist, european, expensive, obsessed with the falklands, good at football"
+	},
+	{
+		"code": "AU",
+		"value": 3,
+		"name": "Australia",
+		"word": "dry, hot, deadly, scary, racist, weird, expensive, unique, far away, boring"
+	},
+	{
+		"code": "AT",
+		"value": 2.5,
+		"name": "Austria",
+		"word": "small, wealthy, racist"
+	},
+	{
+		"code": "BD",
+		"value": 4,
+		"name": "Bangladesh",
+		"word": "poor, populated, overpopulated, corrupt, prone to flooding, dirty, vulnerable to sea-level rise, higly populated"
+	},
+	{
+		"code": "BB",
+		"value": 2,
+		"name": "Barbados",
+		"word": "expensive, foreign to the narrator, hot, popular, densely populated"
+	},
+	{
+		"code": "BY",
+		"value": 4,
+		"name": "Belarus",
+		"word": "scary, poor, inflation so high, interest rate so high"
+	},
+	{
+		"code": "BE",
+		"value": 3,
+		"name": "Belgium",
+		"word": "dangerous, weak, boring, good at football, divided, muslim, rich, densely populated, radicalized, liberal"
+	},
+	{
+		"code": "BO",
+		"value": 3,
+		"name": "Bolivia",
+		"word": "poor, unfriendly"
+	},
+	{
+		"code": "BA",
+		"value": 3,
+		"name": "Bosnia and Herzegovina",
+		"word": "poor"
+	},
+	{
+		"code": "BR",
+		"value": 4,
+		"name": "Brazil",
+		"word": "violent, corrupt, big, poor, rich in hydroelectric power, bad, populated, dirty, good at soccer, expensive"
+	},
+	{
+		"code": "BG",
+		"value": 4,
+		"name": "Bulgaria",
+		"word": "poor, cheap, unhappy, bad"
+	},
+	{
+		"code": "KH",
+		"value": 4,
+		"name": "Cambodia",
+		"word": "poor, expensive, hot, corrupt, life expectancy low,"
+	},
+	{
+		"code": "CM",
+		"value": 3,
+		"name": "Cameroon",
+		"word": "poor"
+	},
+	{
+		"code": "CA",
+		"value": 1,
+		"name": "Canada",
+		"word": "cold, nice, gay, liberal, great, big, safe, weird, cool, clean"
+	},
+	{
+		"code": "CF",
+		"value": 3,
+		"name": "Central African Republic",
+		"word": "poor"
+	},
+	{
+		"code": "CL",
+		"value": 1,
+		"name": "Chile",
+		"word": "narrow, dry, developed, rich, expensive, hot, prone to earthquakes, successful, long and narrow"
+	},
+	{
+		"code": "CN",
+		"value": 3,
+		"name": "China",
+		"word": "polluted, populated, big, powerful, rich, corrupt, poor, cheap, dirty, popular"
+	},
+	{
+		"code": "CO",
+		"value": 3,
+		"name": "Colombia",
+		"word": "poor, happy, violent, corrupt, dangerous, beautiful"
+	},
+	{
+		"code": "CR",
+		"value": 2,
+		"name": "Costa Rica",
+		"word": "biodiverse, expensive, happy, popular, diverse, poor, white, safe, cheap, stable"
+	},
+	{
+		"code": "CI",
+		"value": 2.5,
+		"name": "Cote d'Ivoire",
+		"word": ""
+	},
+	{
+		"code": "HR",
+		"value": 2,
+		"name": "Croatia",
+		"word": "oddly shaped, expensive, popular, good at sport, beautiful, racist, good at football, poor"
+	},
+	{
+		"code": "CU",
+		"value": 3,
+		"name": "Cuba",
+		"word": "poor, bad, good at baseball, behind, important, socialist, popular, far behind, old, populated"
+	},
+	{
+		"code": "CZ",
+		"value": 3,
+		"name": "Czech Republic",
+		"word": "atheist, cheap, poor, socialist"
+	},
+	{
+		"code": "DK",
+		"value": 1,
+		"name": "Denmark",
+		"word": "happy, rich, expensive, socialist, wealthy, small, good, racist, successful, awesome"
+	},
+	{
+		"code": "EC",
+		"value": 3,
+		"name": "Ecuador",
+		"word": "poor, cheap"
+	},
+	{
+		"code": "EG",
+		"value": 2,
+		"name": "Egypt",
+		"word": "called gift of the nile, hot, special, dry, popular, poor, dirty, important, dependent on the nile river"
+	},
+	{
+		"code": "SV",
+		"value": 5,
+		"name": "El Salvador",
+		"word": "violent, poor, dangerous, densely settled, small, densely populated, south america"
+	},
+	{
+		"code": "EE",
+		"value": 3,
+		"name": "Estonia",
+		"word": "cold, atheist, poor, rich, irreligious, doing well"
+	},
+	{
+		"code": "ET",
+		"value": 4,
+		"name": "Ethiopia",
+		"word": "impoverished, poor, populated, underdeveloped, important, poor yahoo answers, good at running, special, life expectancy low"
+	},
+	{
+		"code": "FI",
+		"value": 1,
+		"name": "Finland",
+		"word": "great, smart, rich, socialist, expensive, cold, metal, different, happy, successful"
+	},
+	{
+		"code": "FR",
+		"value": 2,
+		"name": "France",
+		"word": "popular, racist, liberal, gay, socialist, great, expensive, famous, big, important to wine world"
+	},
+	{
+		"code": "DE",
+		"value": 1,
+		"name": "Germany",
+		"word": "powerful, rich, great, populated, awesome, smart, liberal, good at football, successful, aggressive"
+	},
+	{
+		"code": "GH",
+		"value": 3,
+		"name": "Ghana",
+		"word": "poor, important, expensive, hot, underdeveloped, good at soccer"
+	},
+	{
+		"code": "GR",
+		"value": 3,
+		"name": "Greece",
+		"word": "poor, important, corrupt, expensive, famous, popular, amazing, white, anti semitic, tectonically active"
+	},
+	{
+		"code": "GL",
+		"value": 2.5,
+		"name": "Greenland",
+		"word": "big, big on the map, large on the map, cold, suicidal, big on google maps, expensive, sparsely populated, considered part of europe"
+	},
+	{
+		"code": "GT",
+		"value": 5,
+		"name": "Guatemala",
+		"word": "poor, violent, dangerous"
+	},
+	{
+		"code": "HN",
+		"value": 5,
+		"name": "Honduras",
+		"word": "poor, violent, dangerous, corrupt"
+	},
+	{
+		"code": "HK",
+		"value": 1,
+		"name": "Hong Kong",
+		"word": "rich, safe, successful, free, popular, crowded, expensive, densely populated, polluted, different from the rest of china"
+	},
+	{
+		"code": "HU",
+		"value": 4,
+		"name": "Hungary",
+		"word": "poor, racist, cheap, small, good at water polo"
+	},
+	{
+		"code": "IS",
+		"value": 1,
+		"name": "Iceland",
+		"word": "expensive, safe, peaceful, happy, volcanically active, popular, warm, cheap, green, great"
+	},
+	{
+		"code": "IN",
+		"value": 5,
+		"name": "India",
+		"word": "poor, populated, dirty, cheap, polluted, filthy, corrupt, hot, backward, diverse"
+	},
+	{
+		"code": "ID",
+		"value": 3,
+		"name": "Indonesia",
+		"word": "populated,muslim, big, poor, overpopulated, known as nusantara, vulnerable to tsunami, hot, cheap, densely populated"
+	},
+	{
+		"code": "IR",
+		"value": 3,
+		"name": "Iran",
+		"word": "theocratic republic, evil, dangerous, polluted, poor, important, strict, good at wrestling, hot, bad"
+	},
+	{
+		"code": "IQ",
+		"value": 4,
+		"name": "Iraq",
+		"word": "violent, important, unstable, poor, hot, dangerous, corrupt, taking so long, in the news"
+	},
+	{
+		"code": "IE",
+		"value": 2,
+		"name": "Ireland",
+		"word": "green, poor, rich, catholic, rainy, warm, beautiful, popular, religious, expensive"
+	},
+	{
+		"code": "IL",
+		"value": 2.5,
+		"name": "Israel",
+		"word": "important to the US, important to judaism, cautious, cautious, rich, small, controversial, important to the world, hated, expensive"
+	},
+	{
+		"code": "IT",
+		"value": 2.5,
+		"name": "Italy",
+		"word": "poor, healthy, racist, beautiful, weak, great, important, unique, dirty, corrupt"
+	},
+	{
+		"code": "JM",
+		"value": 3,
+		"name": "Jamaica",
+		"word": "poor, homophobic, expensive, dangerous, popular, fast, violent, hot, popular with tourists"
+	},
+	{
+		"code": "JP",
+		"value": 1,
+		"name": "Japan",
+		"word": "weird, safe, clean, advanced, expensive, xenophobic, cool, successful, populated, popular"
+	},
+	{
+		"code": "JO",
+		"value": 3,
+		"name": "Jordan",
+		"word": "gay, stupid, good, stable, expensive, peaceful"
+	},
+	{
+		"code": "KZ",
+		"value": 2,
+		"name": "Kazakhstan",
+		"word": "sparsely populated, cold, big, rich"
+	},
+	{
+		"code": "KE",
+		"value": 4,
+		"name": "Kenya",
+		"word": "poor, mean, corrupt, good at running, hot, expensive, special, good at marathon"
+	},
+	{
+		"code": "KP",
+		"value": 2.5,
+		"name": "Korea, Dem. Rep.",
+		"word": "south or north?"
+	},
+	{
+		"code": "KR",
+		"value": 2.5,
+		"name": "Korea, Rep.",
+		"word": "south or north?"
+	},
+	{
+		"code": "KW",
+		"value": 2,
+		"name": "Kuwait",
+		"word": "rich, hot, fat, boring, currency so high, strong, airways so cheap"
+	},
+	{
+		"code": "LB",
+		"value": 2.5,
+		"name": "Lebanon",
+		"word": "liberal, important, expensive, small, westernized"
+	},
+	{
+		"code": "LY",
+		"value": 4,
+		"name": "Libya",
+		"word": "hot, poor, lawless, sparsely populated, dangerous, rich, important, corrupt, hard to govern, population so low"
+	},
+	{
+		"code": "LT",
+		"value": 4,
+		"name": "Lithuania",
+		"word": "small, poor, suicidal, good at basketball, bad, violent, internet so fast"
+	},
+	{
+		"code": "LU",
+		"value": 1,
+		"name": "Luxembourg",
+		"word": "wealthy, small, successful, attractive to foreign companies, prosperous, expensive, gdp so high"
+	},
+	{
+		"code": "MK",
+		"value": 2.5,
+		"name": "Macedonia, FYR",
+		"word": "poor, important"
+	},
+	{
+		"code": "MG",
+		"value": 2,
+		"name": "Madagascar",
+		"word": "unique, biodiverse, diverse, special, poor, hard to inflect, important"
+	},
+	{
+		"code": "MY",
+		"value": 3,
+		"name": "Malaysia",
+		"word": "rich, corrupt, hot, poor, cheap, stupid"
+	},
+	{
+		"code": "MV",
+		"value": 2,
+		"name": "Maldives",
+		"word": "expensive, beautiful, densely populated, special, popular, water so clear"
+	},
+	{
+		"code": "MU",
+		"value": 2.5,
+		"name": "Mauritius",
+		"word": "cheap, expensive, densely populated"
+	},
+	{
+		"code": "MX",
+		"value": 4,
+		"name": "Mexico",
+		"word": "poor, rapists, corrupt, bad, dangerous, violent, fat, hot, polluted, important, cheap"
+	},
+	{
+		"code": "MC",
+		"value": 2,
+		"name": "Monaco",
+		"word": "small, expensive, wealthy, densely populated, life expectancy so high"
+	},
+	{
+		"code": "MA",
+		"value": 2.5,
+		"name": "Morocco",
+		"word": "poor, cheap, popular"
+	},
+	{
+		"code": "MM",
+		"value": 4,
+		"name": "Myanmar",
+		"word": "poor, expensive"
+	},
+	{
+		"code": "NA",
+		"value": 3,
+		"name": "Namibia",
+		"word": "sparsely populated, dry, better than south africa"
+	},
+	{
+		"code": "NP",
+		"value": 3,
+		"name": "Nepal",
+		"word": "poor, special, prone to earthquakes, popular, having many earthquakes"
+	},
+	{
+		"code": "NL",
+		"value": 2,
+		"name": "Netherlands",
+		"word": "rich, liberal, densely populated, flat, soccer jersey orange, good at speed skating, tall, good at football"
+	},
+	{
+		"code": "NZ",
+		"value": 1,
+		"name": "New Zealand",
+		"word": "good at rugby, cool, happy, awesome, boring, expensive, beautiful, wealthy, hot, windy"
+	},
+	{
+		"code": "NG",
+		"value": 4,
+		"name": "Nigeria",
+		"word": "poor, populated, rich, popular, hot, corrupt, messed up, overpopulated"
+	},
+	{
+		"code": "NO",
+		"value": 1,
+		"name": "Norway",
+		"word": "rich, happy, great, expensive, prosperous, cold"
+	},
+	{
+		"code": "OM",
+		"value": 2,
+		"name": "Oman",
+		"word": "peaceful, rich, stable, expensive, currency strong, sold gwadar"
+	},
+	{
+		"code": "PK",
+		"value": 5,
+		"name": "Pakistan",
+		"word": "poor, corrupt, polluted, unstable, dangerous, bad, violent, populated, messed up, dirty"
+	},
+	{
+		"code": "PA",
+		"value": 2.5,
+		"name": "Panama",
+		"word": "happy, important, cheap, expensive, hot, canal so important"
+	},
+	{
+		"code": "PG",
+		"value": 4,
+		"name": "Papua New Guinea",
+		"word": "dangerous, poor, linguistically diverse, expensive, unexplored, expensive to rent, violent"
+	},
+	{
+		"code": "PY",
+		"value": 3,
+		"name": "Paraguay",
+		"word": "poor"
+	},
+	{
+		"code": "PE",
+		"value": 3,
+		"name": "Peru",
+		"word": "poor"
+	},
+	{
+		"code": "PH",
+		"value": 5,
+		"name": "Philippines",
+		"word": "corrupt, poor, hot, dirty, internet slow"
+	},
+	{
+		"code": "PL",
+		"value": 4,
+		"name": "Poland",
+		"word": "weak, catholic, bad, conservative, racist, cheap, poor, great, religious"
+	},
+	{
+		"code": "PT",
+		"value": 3,
+		"name": "Portugal",
+		"word": "poor, small, cheap, underrated, important to exploration"
+	},
+	{
+		"code": "PR",
+		"value": 3,
+		"name": "Puerto Rico",
+		"word": "poor, important to the US, expensive, cheap, broke, dangerous, gas so cheap, south or north america"
+	},
+	{
+		"code": "WA",
+		"value": 3,
+		"name": "Qatar",
+		"word": "rich, polluted, hot, boring, expensive, airways so cheap, gdp high"
+	},
+	{
+		"code": "RO",
+		"value": 4,
+		"name": "Romania",
+		"word": "poor, hated, corrupt, religious "
+	},
+	{
+		"code": "RU",
+		"value": 4,
+		"name": "Russia",
+		"word": "big, cold, poor, crazy, homophobic, powerful, weird, corrupt, aggressive, bad"
+	},
+	{
+		"code": "RW",
+		"value": 3,
+		"name": "Rwanda",
+		"word": "poor, small, densely populated,clean, life expectancy so low"
+	},
+	{
+		"code": "SA",
+		"value": 3,
+		"name": "Saudi Arabia",
+		"word": "rich, conservative, rich in oil, young, backward, evil, hot, oppressive, important to islam, strict"
+	},
+	{
+		"code": "SN",
+		"value": 3,
+		"name": "Senegal",
+		"word": "poor"
+	},
+	{
+		"code": "RS",
+		"value": 3,
+		"name": "Serbia",
+		"word": "poor, hated, bad, important, racist, good at sports, good at tennis, good at basketball, awesome"
+	},
+	{
+		"code": "SG",
+		"value": 1,
+		"name": "Singapore",
+		"word": "rich, expensive, healthy, strict, clean, successful, safe, smart, hot, developed"
+	},
+	{
+		"code": "SI",
+		"value": 2,
+		"name": "Slovenia",
+		"word": "expensive, small, rich, beautiful"
+	},
+	{
+		"code": "SO",
+		"value": 5,
+		"name": "Somalia",
+		"word": "bad, dangerous, poor, corrupt, unstable, violent, dry, messed up"
+	},
+	{
+		"code": "ZA",
+		"value": 3,
+		"name": "South Africa",
+		"word": "rich, poor, violent, white, important, diverse, cheap, developed, successful, racist"
+	},
+	{
+		"code": "ES",
+		"value": 2,
+		"name": "Spain",
+		"word": "poor, good at soccer, warm, important, great, beautiful, popular, corrupt, racist, divided"
+	},
+	{
+		"code": "LK",
+		"value": 3,
+		"name": "Sri Lanka",
+		"word": "poor, expensive, names so long"
+	},
+	{
+		"code": "SD",
+		"value": 5,
+		"name": "Sudan",
+		"word": "poor, dangerous, fighting, at war, a failed state, a country?, in a civil war"
+	},
+	{
+		"code": "SE",
+		"value": 2,
+		"name": "Sweden",
+		"word": "happy, socialist, great, gay, expensive, successful, rich, sustainable, liberal, stupid"
+	},
+	{
+		"code": "CH",
+		"value": 1,
+		"name": "Switzerland",
+		"word": "happy, rich, expensive, safe, neutral, peaceful, great, awesome, clean, successful"
+	},
+	{
+		"code": "TJ",
+		"value": 3,
+		"name": "Tajikistan",
+		"word": "poor"
+	},
+	{
+		"code": "TH",
+		"value": 5,
+		"name": "Thailand",
+		"word": "cheap, gay, poor, popular, dangerous, corrupt, dirty, hot, cold, expensive"
+	},
+	{
+		"code": "TN",
+		"value": 4,
+		"name": "Tunisia",
+		"word": "poor, cheap"
+	},
+	{
+		"code": "TR",
+		"value": 2,
+		"name": "Turkey",
+		"word": "dry, healthy, secular, powerful, important, high in sodium, poor"
+	},
+	{
+		"code": "TM",
+		"value": 3,
+		"name": "Turkmenistan",
+		"word": "poor"
+	},
+	{
+		"code": "UG",
+		"value": 4,
+		"name": "Uganda",
+		"word": "poor, homophobic, in somalia, in south sudan"
+	},
+	{
+		"code": "UA",
+		"value": 4,
+		"name": "Ukraine",
+		"word": "poor, corrupt, big, important to russia, dangerous, racist, important to the west"
+	},
+	{
+		"code": "AE",
+		"value": 1,
+		"name": "United Arab Emirates",
+		"word": "rich"
+	},
+	{
+		"code": "GB",
+		"value": 1,
+		"name": "United Kingdom",
+		"word": "rich, powerful, socialist"
+	},
+	{
+		"code": "US",
+		"value": 3,
+		"name": "United States",
+		"word": "racist, powerful, rich religious, violent, popular, stupid "
+	},
+	{
+		"code": "UY",
+		"value": 2,
+		"name": "Uruguay",
+		"word": "liberal, white, expensive, good at soccer"
+	},
+	{
+		"code": "VE",
+		"value": 5,
+		"name": "Venezuela",
+		"word": "poor, dangerous, corrupt, socialist, expensive, rich, bad, cheap for petrol"
+	},
+	{
+		"code": "VN",
+		"value": 4,
+		"name": "Vietnam",
+		"word": "cheap, special, important, dirty, poor, corrupt, hot, polluted, socialist, war so popular"
+	},
+	{
+		"code": "EH",
+		"value": 2.5,
+		"name": "Western Sahara",
+		"word": "sparsely populated"
+	},
+	{
+		"code": "YE",
+		"value": 4,
+		"name": "Yemen, Rep.",
+		"word": "poor, important, dangerous, unstable, honey so expensive, dark, poorest country in southwest asia"
+	},
+	{
+		"code": "ZM",
+		"value": 5,
+		"name": "Zambia",
+		"word": "poor, life expectancy so low"
+	},
+	{
+		"code": "ZW",
+		"value": 5,
+		"name": "Zimbabwe",
+		"word": "poor, expensive, economy so bad, inflation so high, dollar so weak"
+	},
+	{
+		"code": "CD",
+		"value": 5,
+		"name": "Democratic republic of congo",
+		"word": "poor, dangerous, undernourished, "
+	},
+	{
+		"code": "DZ",
+		"value": 4,
+		"name": "Algeria",
+		"word": "hot, poor, dangerous, important to france"
+	},
+	{
+	"code": "MN",
+	"value": 4,
+	"name" : "Mongolia",
+	"word" : "cold, poor, polluted, unpopulated, sparsely populated, big, small, isolated"
+	}
+]
