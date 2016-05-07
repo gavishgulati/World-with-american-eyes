@@ -33,16 +33,6 @@ Files
 
 *Autosuggest_collect.py.ipynb*
 
-------- 
-License
--------
-
-The data in the INFM600 repository is distributed under a Creative Commons 
-Attribution-NonCommercial-ShareAlike 4.0 International License (see 
-http://creativecommons.org/licenses/by-nc-sa/4.0/).
-   
-	The data is made available for non-commercial use. Those interested in using the data 
-   	in a commercial context should contact the owner(Gavish Gulati).
 
 ----------------
 Acknowledgements
@@ -54,9 +44,9 @@ Acknowledgements
 References
 ----------
 
-www.statvision.com/webinars/countries%20of%20the%20world.xls
+	www.statvision.com/webinars/countries%20of%20the%20world.xls
 
-Hu, M., & Liu, B. (2004, August). Mining and summarizing customer reviews. In Proceedings of the tenth ACM SIGKDD international conference on Knowledge discovery and data mining (pp. 168-177). ACM.
+	Hu, M., & Liu, B. (2004, August). Mining and summarizing customer reviews. In Proceedings of the tenth ACM SIGKDD international conference on Knowledge discovery and data mining (pp. 168-177). ACM.
 
 -------
 Author
