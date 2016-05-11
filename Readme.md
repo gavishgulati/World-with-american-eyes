@@ -45,7 +45,7 @@ Acknowledgements
 References
 ----------
 
-	www.statvision.com/webinars/countries%20of%20the%20world.xls
+	Highmaps. (2016). World Population Density [Data set Spreadsheet file]. Retrieved from https://docs.google.com/a/umd.edu/spreadsheets/d/1gXzu9TYT3UvDMcoxj_kS7PUXMmC1MNVSfewccOs2dkA/pub?hl=en_GB&hl=en_GB&output=html April 15, 2016
 
 	Hu, M., & Liu, B. (2004, August). Mining and summarizing customer reviews. In Proceedings of the tenth ACM SIGKDD international conference on Knowledge discovery and data mining (pp. 168-177). ACM.
 
