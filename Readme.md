@@ -1,4 +1,4 @@
-# JOUR779V - Computational Journalism Final Project
+# JOUR779V - World with Google America Eyes
 
 -----------
 Description
