@@ -19,6 +19,7 @@ Value: This was the score we assigned to each country based on the sentiment of 
 Name: Name of the country
 Word: List of all the words collected from Google autosuggestion.
 We went through the list of words (6800 words) to differentiate positive or negative words which helped us in coming up with the scores for each country
+Please visit [Link][www.jour779v.dx.am] to view the interactive map.
 ![Interactive Map](https://github.com/gavishgulati/World-with-american-eyes/blob/master/World-With-American-Eyes.JPG)
 
 -----
