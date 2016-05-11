@@ -13,7 +13,7 @@ Data is in the format of a CSV file where it contains the result for 121 coutrie
 Analysis
 ---------------
 
-ur analysis of Google autosuggest results for how Americans think about other parts of the world started by collecting data with the help of an API. By parsing through words like ìwhy is Mexico soî as request, we collected Google autosuggest results as our response in a CSV file. SInce our objective was to do the same activity for all the countries in the world (232 countries [1]). After collecting all these countries, we looped through the array of these countries. Many of these countries gave no results at all or gave similar results to their neighbours. Similarity of autosuggest results was prominent amongst countries in Africa. Therefore we discarded these countries and brought down the final number of countries for analysis to 121 countries. We manually went through about 1000 auto suggest results and quantified them to a score between 1 to 5. Each country had an average of 6 to 7 autosuggestions in our dataset. Giving importance to the autosuggest results as per their ranks we gave them higher weightage in our scoring. Results where countries only had one autosuggestion such as ìPoorî we assigned it as a score of 3. Our final JSON object which had a list of 121 countries, consisted 4 attributes for each country namely,
+ur analysis of Google autosuggest results for how Americans think about other parts of the world started by collecting data with the help of an API. By parsing through words like ‚Äúwhy is Mexico so‚Äù as request, we collected Google autosuggest results as our response in a CSV file. SInce our objective was to do the same activity for all the countries in the world (232 countries [1]). After collecting all these countries, we looped through the array of these countries. Many of these countries gave no results at all or gave similar results to their neighbours. Similarity of autosuggest results was prominent amongst countries in Africa. Therefore we discarded these countries and brought down the final number of countries for analysis to 121 countries. We manually went through about 1000 auto suggest results and quantified them to a score between 1 to 5. Each country had an average of 6 to 7 autosuggestions in our dataset. Giving importance to the autosuggest results as per their ranks we gave them higher weightage in our scoring. Results where countries only had one autosuggestion such as ‚ÄúPoor‚Äù we assigned it as a score of 3. Our final JSON object which had a list of 121 countries, consisted 4 attributes for each country namely,
 Code: This 2 alphabet value helps in mapping the country data to the Highcharts data. Highcharts helps in displaying the map and data such as the flags for each country.
 Value: This was the score we assigned to each country based on the sentiment of words collected from Google autosuggest.
 Name: Name of the country
@@ -29,7 +29,7 @@ Files
 
 *stereotype-data.json*
 
-*index.html*
+*index.html* (Please place the JSON file and this HTML file in the same directory to see the interactive map.)
 
 *Autosuggest_collect.py.ipynb*
 
