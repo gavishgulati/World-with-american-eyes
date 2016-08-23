@@ -61,8 +61,6 @@ Download and install Anaconda Bundle and install Jupyter Notebook to run the .ip
 Author
 -------
 
-Neha Chanchlani
-
 Gavish Gulati.
 
 Emily Goldman
